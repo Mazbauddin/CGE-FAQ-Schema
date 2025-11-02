@@ -82,6 +82,38 @@
         "@type": "Answer",
         "text": "Yes, we do. Handling all regulatory requirements is a standard part of our service. We manage the entire approval process, from submitting DAs or CDCs to coordinating utility disconnections, ensuring your project is fully compliant from start to finish."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "Are you fully licensed and insured?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Creative Genius Excavation holds all necessary SafeWork NSW demolition and asbestos licences, and we carry full public liability insurance. We are happy to provide proof of our credentials before any work begins."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What safety measures do you implement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Safety is the foundation of our business. Our measures include detailed site-specific safety plans, secure fencing, dust control, mandatory PPE for our team, and strict adherence to all SafeWork NSW protocols. We are a hands-on team built on a culture of safety."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What information do you need for a demolition quote?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a precise quote, we typically need your property address, the house size/age, and any known details about construction materials or asbestos. The best way is for us to conduct a free, no-obligation site inspection to understand your project's specific needs and challenges."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far in advance should I book your demolition service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We recommend booking 4-8 weeks in advance for standard projects. This allows adequate time for permits, utility disconnections, and careful planning. For complex jobs or during peak seasons, we suggest contacting us 8-12 weeks ahead."
+      }
     }
   ]
 }
